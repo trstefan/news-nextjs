@@ -1,0 +1,19 @@
+.home__grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home__grid button {
+  width: 200px;
+  height: 40px;
+  border-radius: 15px;
+  border: none;
+  margin-bottom: 1rem;
+}
+
+.home__grid button:hover {
+  background-color: orange;
+  font-weight: bold;
+}

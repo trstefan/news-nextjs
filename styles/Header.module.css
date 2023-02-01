@@ -1,0 +1,21 @@
+.header {
+  margin: 3rem 0;
+  text-align: center;
+}
+
+.header__title {
+  font-size: 3.5rem;
+  margin-bottom: 1.5rem;
+}
+.header__title:hover {
+  cursor: pointer;
+}
+
+.header span {
+  text-decoration: underline;
+  color: orange;
+}
+
+.header__title__reset {
+  all: unset;
+}
